@@ -129,6 +129,7 @@ cdk run <script-name> [options]
 |Escaping|Rewrite Cgroup(devices.allow)|rewrite-cgroup-devices|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-rewrite-cgroup-devices)|
 |Discovery|K8s Component Probe|service-probe|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-service-probe)|
 |Discovery|Dump Istio Sidecar Meta|istio-check|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-check-istio)|
+|Discovery|Dump K8s Pod Security Policies|k8s-psp-dump|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-psp-dump)|
 |Remote Control|Reverse Shell|reverse-shell|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-reverse-shell)|
 |Credential Access|Access Key Scanning|ak-leakage|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-ak-leakage)|
 |Credential Access|Dump K8s Secrets|k8s-secret-dump|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-secret-dump)|
