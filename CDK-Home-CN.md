@@ -133,6 +133,7 @@ cdk run <script-name> [options]
 |信息窃取|扫描AK及API认证凭据|ak-leakage|✔|[link](https://github.com/Xyntax/CDK/wiki/Exploit:-ak-leakage)|
 |信息窃取|窃取K8s Secrets|k8s-secret-dump|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-secret-dump)|
 |信息窃取|窃取K8s Config|k8s-configmap-dump|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-configmap-dump)|
+|信息窃取|获取K8s Pod Security Policies|k8s-psp-dump|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-psp-dump)|
 |权限提升|K8s RBAC绕过|k8s-get-sa-token|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-get-sa-token)|
 |持久化|部署WebShell|webshell-deploy|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-webshell-deploy)|
 |持久化|部署后门Pod|k8s-backdoor-daemonset|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-backdoor-daemonset)|
