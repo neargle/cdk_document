@@ -197,9 +197,20 @@ Bug反馈、建议以及代码提交，您的Github ID会在以下致谢列表�
 * 新功能使用时的截图或日志。
 * 如果您在提交一个evaluate/exploit插件，请在PR的信息中加入使用文档，[文档示例](https://github.com/cdk-team/CDK/wiki/Exploit:-docker-sock-deploy)
 
-## 收录于404StarLink 2.0 - Galaxy
+## 相关资料
+
+### 收录于404StarLink 2.0 - Galaxy
 ![png](https://github.com/knownsec/404StarLink-Project/raw/master/logo.png)
 
 CDK 是 404Team [星链计划2.0](https://github.com/knownsec/404StarLink2.0-Galaxy)中的一环，如果对CDK有任何疑问又或是想要找小伙伴交流，可以参考星链计划的加群方式。
 
 - [https://github.com/knownsec/404StarLink2.0-Galaxy#community](https://github.com/knownsec/404StarLink2.0-Galaxy#community)
+
+
+### BlackHat Asia 2021 Arsenal
+
+- [https://www.blackhat.com/asia-21/arsenal/schedule/index.html#cdk-zero-dependency-container-penetration-toolkit-22422](https://www.blackhat.com/asia-21/arsenal/schedule/index.html#cdk-zero-dependency-container-penetration-toolkit-22422)
+
+### HITB SecConf 2021 Amsterdam
+
+- [Briefing: "Attack Cloud Native Kubernetes"](https://conference.hitb.org/hitbsecconf2021ams/sessions/attacking-cloud-native-kubernetes-with-cdk/)
