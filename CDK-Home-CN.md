@@ -130,6 +130,7 @@ cdk run <script-name> [options]
 |网络探测|K8s组件探测|service-probe|✔|[link](https://github.com/Xyntax/CDK/wiki/Exploit:-service-probe)|
 |信息收集|检查和获取Istio元信息|istio-check|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-check-istio)|
 |远程控制|反弹shell|reverse-shell|✔|[link](https://github.com/Xyntax/CDK/wiki/Exploit:-reverse-shell)|
+|信息窃取|暴力破解镜像源账号|registry-brute|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-Container-Image-Registry-Brute)|
 |信息窃取|扫描AK及API认证凭据|ak-leakage|✔|[link](https://github.com/Xyntax/CDK/wiki/Exploit:-ak-leakage)|
 |信息窃取|窃取K8s Secrets|k8s-secret-dump|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-secret-dump)|
 |信息窃取|窃取K8s Config|k8s-configmap-dump|✔|[link](https://github.com/cdk-team/CDK/wiki/Exploit:-k8s-configmap-dump)|
